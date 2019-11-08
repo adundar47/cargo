@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: cargo
+  data:
+    mongodb:
+      host: localhost
+      port: 27020
+      database: cargo
+
+userinfo:
+  username: USER
+  password: PASS
+  language: TR
+
+rate: 3600000
